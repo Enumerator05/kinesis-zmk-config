@@ -57,5 +57,15 @@
 &trans  &trans  &trans  &trans  &trans                  &trans  &trans  &trans    &trans  &trans  &trans                    &trans    &trans        &trans     &trans  &trans
             >;
         };
+
+        gaming_yeah {
+            bindings = <
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                                    &trans  &trans  &trans    &trans        &trans     &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                                    &trans  &trans  &trans    &trans        &trans     &trans  &trans
+&trans  &trans  &kp A   &kp W   &kp D   &trans  &trans          &trans  &trans    &trans  &trans          &trans  &trans  &kp LEFT  &kp UP_ARROW  &kp RIGHT  &trans  &trans
+&trans  &trans  &trans  &kp S   &trans  &trans                          &trans    &trans                          &trans  &trans    &kp DOWN      &trans     &trans  &trans
+&trans  &trans  &trans  &trans  &trans                  &trans  &trans  &trans    &trans  &trans  &trans                  &trans    &trans        &trans     &trans  &trans
+            >;
+        };
     };
 };
